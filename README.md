@@ -32,5 +32,5 @@ g1	-	0
 g2	-	69
 
 The code follows the BFS approach and the starting point is A. The goal state is g1 or g2, whichever is closer.
-
 The program is designed to terminate on reaching one of the goal states.
+The adjacency matrix for the graph is stored in a file called out.txt and the resulting output screenshots along with maze representations have been attached.
